@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main()
+{
+    char a,e,i,o,u words;
+    if(words=a,e,i,o,u)
+    {
+    printf("the char is vowels");
+    }
+    else
+    {
+    printf("the char is consonant");
+    }
+}

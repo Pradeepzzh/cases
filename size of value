@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+    printf("sizeof int:%u bytes\n",sizeof(int));
+    printf("sizeof float:%u bytes\n",sizeof(float));
+    printf("sizeof double:%u bytes\n",sizeof(double));
+    printf("sizeof char:%u bytes\n",sizeof(char));
+    
+}
